@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/github/license/HighSpeedgg/AssettoServer-HighSpeed)](LICENSE)
-[![Discord](https://img.shields.io/discord/960380637628498002?label=HighSpeed%20Discord)](https://discord.gg/futurecrew)
+[![Discord](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1176727481634541608)](https://discord.gg/futurecrew)
 
 # Future Crew Discord Add-on bot
 
