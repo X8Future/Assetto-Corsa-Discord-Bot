@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/github/license/HighSpeedgg/AssettoServer-HighSpeed)](LICENSE)
+[![Discord](https://img.shields.io/discord/960380637628498002?label=HighSpeed%20Discord)](https://discord.gg/futurecrew)
+
 # Future Crew Discord Add-on bot
 
 An Assetto Corsa discord bot that connects to your Assetto Server Hub to make custom leaderboards, whitelists, edits to player information, player count forums, and so much more with the latest Discord.py.
